@@ -1,7 +1,7 @@
 # ahmgeek/feedback
 
 This is a quick little ask-me-anything type of repository. It is forked from 
-[mdo](https://github.com/mdo/feedback) whom forked it from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
+[@mdo](https://github.com/mdo/feedback) who forked it from [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
 ---
@@ -21,7 +21,7 @@ ask a question on any old issue too, even if you didn't create it.
 
 ### Read some questions
 
-Check out the [Closed Issues](https://github.com/mdo/feedback/issues?sort=created&direction=desc&state=closed&page=1)
+Check out the [Closed Issues](https://github.com/ahmgeek/feedback/issues?sort=created&direction=desc&state=closed&page=1)
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
